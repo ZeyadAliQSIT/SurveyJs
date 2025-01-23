@@ -31,7 +31,7 @@
               "node_modules/survey-core/defaultV2.min.css",
               "node_modules/survey-creator-core/survey-creator-core.min.css",
               "node_modules/survey-analytics/survey.analytics.min.css",
-              "node_modules/bootstrap/scss/bootstrap.scss"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
